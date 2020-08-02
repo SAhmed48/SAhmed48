@@ -35,8 +35,7 @@
 <br>
 
 **Top Languages**
-
-<div class='center'>
+<div align="left">
 <a href="https://github.com/dev-salmanahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=light&hide_langs_below=1" />
 </a>
@@ -52,8 +51,10 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
+  
 ### Show some ❤️ by starring some of the repositories!
+
 </div>
 
 
