@@ -31,10 +31,19 @@
 <img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="36" height="36" alt="aws">
 
+<br>
+<br>
+**Top Languages**
+<a href="https://github.com/dev-salmanahmed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=light&hide_langs_below=1" />
+</a>
 
+<br>
+<br>
+
+**Profile Statistics**
 <a href="https://github.com/dev-salmanahmed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=dark&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=light&line_height=45" alt="Salman's github stats"/>
 </a>
-<a href="https://github.com/dev-salmanahmed">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=dark&line_height=45" alt="Salman's github stats"/>
-</a>
+
+
