@@ -12,7 +12,7 @@
 
 [![GitHub dev-salmanahmed](https://img.shields.io/github/followers/dev-salmanahmed?label=follow&style=social)](https://github.com/dev-salmanahmed)
 [![Twitter: SalmanA2A](https://img.shields.io/twitter/follow/SalmanA2A?style=social)](https://twitter.com/SalmanA2A)
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/salman-ahmed-8abb0472/"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
 **Languages and Tools:**  
@@ -36,7 +36,7 @@
 
 <div align="left">
 <a href="https://github.com/dev-salmanahmed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=radical&hide_langs_below=1" />
 </a>
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="left">
   <a href="https://github.com/dev-salmanahmed">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=light&line_height=45" alt="Salman's github   stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=radical&line_height=45" alt="Salman's github   stats"/>
   </a>
 </div>
 
