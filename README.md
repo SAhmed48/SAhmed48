@@ -34,7 +34,6 @@
 <br>
 <br>
 
-**Top Languages**
 <div align="left">
 <a href="https://github.com/dev-salmanahmed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=light&hide_langs_below=1" />
@@ -44,14 +43,13 @@
 <br>
 <br>
 
-**Profile Statistics**
-<div align="center">
+<div align="left">
   <a href="https://github.com/dev-salmanahmed">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=light&line_height=45" alt="Salman's github   stats"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
 
