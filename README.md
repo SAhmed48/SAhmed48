@@ -10,9 +10,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to watch tv series, read books and play with human brain using probability and stats.
 
-[![Twitter: SalmanA2A](https://img.shields.io/twitter/follow/SalmanA2A?style=social)](https://twitter.com/SalmanA2A)
-[![Linkedin: salmanahmed](https://img.shields.io/badge/-salmanahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/salman-ahmed-8abb0472)](www.linkedin.com/in/salman-ahmed-8abb0472)
 [![GitHub dev-salmanahmed](https://img.shields.io/github/followers/dev-salmanahmed?label=follow&style=social)](https://github.com/dev-salmanahmed)
+[![Twitter: SalmanA2A](https://img.shields.io/twitter/follow/SalmanA2A?style=social)](https://twitter.com/SalmanA2A)
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
 **Languages and Tools:**  
