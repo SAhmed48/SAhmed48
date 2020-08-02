@@ -11,5 +11,5 @@
 - ⚡ Fun fact: I love to watch tv series, read books and play with human brain using probability and stats.
 
 [![Twitter: SalmanA2A](https://img.shields.io/twitter/follow/SalmanA2A?style=social)](https://twitter.com/SalmanA2A)
-[![Linkedin: salman-ahmed](https://img.shields.io/badge/-salman-ahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/salman-ahmed-8abb0472)](www.linkedin.com/in/salman-ahmed-8abb0472)
+[![Linkedin: salman-ahmed](https://img.shields.io/badge/-salmanahmed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/salman-ahmed-8abb0472)](www.linkedin.com/in/salman-ahmed-8abb0472)
 [![GitHub dev-salmanahmed](https://img.shields.io/github/followers/dev-salmanahmed?label=follow&style=social)](https://github.com/dev-salmanahmed)
