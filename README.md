@@ -1,6 +1,6 @@
 ### Hola, I'm Salman Ahmed 👋
 
-- 🌱 I’m currently doing Master in Data Science and open to work.
+- 🌱 I’m currently doing Masters in Data Science.
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking for help with Deep learning Models Implementation.
 - 🥅 2020 Goals: Focus on to complete my Master.
