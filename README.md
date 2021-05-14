@@ -1,4 +1,13 @@
-### Hola, I'm Salman Ahmed 👋
+
+<div align="center">
+  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+
+<div align="center">
+<h3> 👨 Salman Ahmed | 👨🏻‍💻 Software Engineer | 🌏 Lahore, Pakistan </h3> 
+</div>
+
+### About me
 
 - 🌱 I’m currently doing Masters in Data Science.
 - 👯 I’m looking to collaborate on any open source projects.
@@ -33,20 +42,26 @@
 <br>
 
 
-<div align="left">
+<div align="center">
+  ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+  <br>
+  <br>
+  <div>
 <a href="https://github.com/dev-salmanahmed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&layout=compact&hide_langs_below=1" />
 </a>
-</div>
-
-<br>
-<br>
-
-<div align="left">
+  </div>
+  <br>
+  <br>
+  
+  <div>
   <a href="https://github.com/dev-salmanahmed">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=radical&line_height=45" alt="Salman's github   stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&line_height=30" alt="Salman's github   stats"/>
   </a>
 </div>
+</div>
+
+<br>
 
 <div align="center">
   
