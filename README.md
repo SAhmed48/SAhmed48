@@ -11,8 +11,8 @@
 
 - 🌱 I’m currently doing Masters in Data Science.
 - 👯 I’m looking to collaborate on any open source projects.
-- 🤔 I’m looking for help with Deep learning Models Implementation.
-- 🥅 2020 Goals: Focus on to complete my Master.
+- 🤔 I’m looking to collaborate on any Deep learning Models Implementation.
+- 🥅 2020 Goals: Focus on to complete my Masters.
 - 💬 Ask me about Python, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
 - 📫 How to reach me: [Twitter - @SalmanA2A](https://twitter.com/SalmanA2A) , [Linkedin - salman-ahmed](https://www.linkedin.com/in/salman-ahmed-8abb0472/)
 - 😄 Pronouns: He/His
