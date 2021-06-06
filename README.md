@@ -93,7 +93,6 @@ Stuck with some problem? Need help in solution development, guidance, training o
 
 ## 👨‍💻 Technical Skills & Expertise
 - Development of Web Applications, Mobile Applications, and Desktop Applications.
-- Frontend and backend Expert using JavaScript.
 - Development of Machine Learning / Deep Learning models, and deployment.
 - Web Scraping, Browser Automation, Python Scripting.
 
