@@ -18,7 +18,7 @@
 - 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
 - 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
-- 
+
 <!-- - <a href="https://github.com/dev-salmanahmed"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=dev-salmanahmed&style=flat-square" width="100"/></a>
  -->
 
