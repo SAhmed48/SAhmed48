@@ -14,7 +14,7 @@
 - 🌱 I’m currently doing Masters in Data Science.
 - 👯 I’m looking to collaborate on any open source projects.
 - 🤔 I’m looking to collaborate on any Deep learning Models Implementation.
-- 🥅 2020 Goals: Focus on to complete my Masters.
+- 🥅 2021 Goals: Focus on to complete Masters.
 - 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
 - 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
