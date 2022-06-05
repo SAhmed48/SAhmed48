@@ -1,10 +1,10 @@
 <div align="center">
-  <h1> Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  <h1> Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></h1>
 </div>
 
 <div align="center">
 <h3> 
-  👨 Salman Ahmed | 👨🏻‍💻 Software Engineer | 🌏 Lahore, Pakistan 
+  👨 Salman Ahmed | 👨🏻‍💻 Full Stack Engineer | 🌏 Lahore, Pakistan
 </h3> 
   
 </div>
@@ -17,7 +17,9 @@
 - 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
 - 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
-
+- 💼 any freelance work? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+- 
 <!-- - <a href="https://github.com/dev-salmanahmed"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=dev-salmanahmed&style=flat-square" width="100"/></a>
  -->
 
