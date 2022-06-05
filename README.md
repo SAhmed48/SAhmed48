@@ -110,9 +110,11 @@ Stuck with some problem? Need help in solution development, guidance, training o
   </div>
   <br>
   <div>
-  <a href="https://github.com/dev-salmanahmed">
+<!--   <a href="https://github.com/dev-salmanahmed">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&line_height=30" alt="Salman's github   stats"/>
-  </a>
+  </a> -->
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=gotham" alt="Salman Ahmed" />
 </div>
 </div>
 
