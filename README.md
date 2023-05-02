@@ -1,27 +1,32 @@
 <div align="center">
   <h1> Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></h1>
 </div>
-
 <div align="center">
 <h3> 
   👨 Salman Ahmed | 👨🏻‍💻 Full Stack Engineer | 🌏 Lahore, Pakistan
 </h3> 
-  
 </div>
 
-### About me
 
-- 🌱 I’m currently doing Masters in Data Science.
+<p align="center"> <strong>I'm a Full Stack Engineer, with a passion for backend and strong interest in frontend development.</strong> </p>
+Full Stack Engineer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. 8 years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
+
+### About me
 - 🌱 I’m addicted to learning and growing every day.
 - 👯 I’m looking to collaborate on any open source projects.
 - 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
 - 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
-- 💼 any freelance work? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 
+- 💼 Any freelance work ? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
+- 💬 Ask me about anything, I'm happy to help :)
+
 <!-- - <a href="https://github.com/dev-salmanahmed"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=dev-salmanahmed&style=flat-square" width="100"/></a>
  -->
+
+## 👨‍💻 Technical Skills & Expertise
+- Development of Web Applications, Mobile Applications, and Desktop Applications.
+- Development of Machine Learning / Deep Learning models, and deployment.
+- Web Scraping, Browser Automation, Python Scripting.
 
 <h2 align="left">📫 Connect</h2>
 <a href="https://www.linkedin.com/in/salman-ahmed-8abb0472/">
@@ -35,9 +40,6 @@
 <a href="mailto:salmanahmed4858@gmail.com">
   <img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-  <a href="https://github.com/dev-salmanahmed">
-  <img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <h2 align="left">⚙️ Tools & Technologies Used: </h2>
@@ -91,13 +93,13 @@
 
 </div>
 
+<h2 align="left">🏆 Github Gold Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-salmanahmed&column=3&margin-w=15&margin-h=15)](https://github.com/dev-salmanahmed/github-profile-trophy)
+
+
 ## 🤝 Consulting / Guidance
 Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>salmanahmed4858@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
-
-## 👨‍💻 Technical Skills & Expertise
-- Development of Web Applications, Mobile Applications, and Desktop Applications.
-- Development of Machine Learning / Deep Learning models, and deployment.
-- Web Scraping, Browser Automation, Python Scripting.
 
 
 <!-- ## Want to support �
@@ -120,6 +122,7 @@ Stuck with some problem? Need help in solution development, guidance, training o
 </div>
 </div>
 
+<br>
 <br>
 
 <div align="center">
