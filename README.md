@@ -20,7 +20,7 @@ Full Stack Engineer with a strong background in community and program management
 - 💼 Any freelance work? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
 - 💬 Ask me about anything; I'm happy to help :)
 
-<!-- - <a href="https://github.com/dev-salmanahmed"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=dev-salmanahmed&style=flat-square" width="100"/></a>
+<!-- - <a href="https://github.com/SAhmed48"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=SAhmed48&style=flat-square" width="100"/></a>
  -->
 
 ## 👨‍💻 Technical Skills & Expertise
@@ -95,7 +95,7 @@ Full Stack Engineer with a strong background in community and program management
 
 <h2 align="left">🏆 Github Gold Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-salmanahmed&column=3&margin-w=15&margin-h=15)](https://github.com/dev-salmanahmed/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAhmed48&column=3&margin-w=15&margin-h=15)](https://github.com/SAhmed48/github-profile-trophy)
 
 
 ## 🤝 Consulting / Guidance
@@ -108,17 +108,17 @@ Stuck with some problem? Need help in solution development, guidance, training o
 ## Stats
 <div align="left">
   <div>
-<a href="https://github.com/dev-salmanahmed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-salmanahmed&layout=compact&hide_langs_below=1" />
+<a href="https://github.com/SAhmed48">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAhmed48&layout=compact&hide_langs_below=1" />
 </a>
   </div>
   <br>
   <div>
-<!--   <a href="https://github.com/dev-salmanahmed">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&line_height=30" alt="Salman's github   stats"/>
+<!--   <a href="https://github.com/SAhmed48">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAhmed48&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&line_height=30" alt="Salman's github   stats"/>
   </a> -->
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-salmanahmed&show_icons=true&theme=gotham" alt="Salman Ahmed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAhmed48&show_icons=true&theme=gotham" alt="Salman Ahmed" />
 </div>
 </div>
 
