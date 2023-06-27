@@ -8,24 +8,24 @@
 </div>
 
 
-<p align="center"> <strong>I'm a Full Stack Engineer, with a passion for backend and strong interest in frontend development.</strong> </p>
-Full Stack Engineer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. 8 years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
+<p align="center"> <strong>I'm a Full Stack Engineer with a passion for backend and frontend development.</strong> </p>
+Full Stack Engineer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. Eight years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
 
 ### About me
 - 🌱 I’m addicted to learning and growing every day.
-- 👯 I’m looking to collaborate on any open source projects.
-- 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack  or any tech related stuff.
+- 👯 I’m looking to collaborate on any open-source projects.
+- 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack,  or any tech-related stuff.
 - 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
-- 💼 Any freelance work ? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
-- 💬 Ask me about anything, I'm happy to help :)
+- 💼 Any freelance work? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
+- 💬 Ask me about anything; I'm happy to help :)
 
 <!-- - <a href="https://github.com/dev-salmanahmed"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=dev-salmanahmed&style=flat-square" width="100"/></a>
  -->
 
 ## 👨‍💻 Technical Skills & Expertise
 - Development of Web Applications, Mobile Applications, and Desktop Applications.
-- Development of Machine Learning / Deep Learning models, and deployment.
+- Development of Machine Learning / Deep Learning models and deployment.
 - Web Scraping, Browser Automation, Python Scripting.
 
 <h2 align="left">📫 Connect</h2>
