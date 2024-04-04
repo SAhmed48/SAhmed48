@@ -8,8 +8,11 @@
 </div>
 
 
-<p align="center"> <strong>I'm a Full Stack Engineer with a passion for backend and frontend development.</strong> </p>
-Full Stack Engineer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. Eight years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
+<p align="center"> <strong>I am a seasoned software engineer with 7 years of experience in the software services industry. Throughout my career, I have gained extensive experience working with various programming languages, libraries, frameworks, and technologies, including Python, JavaScript, TypeScript, React, Node, Angular, SQL, Docker, Kubernetes, and AWS. Additionally, I possess exceptional intercultural and cross-team collaboration skills, having worked with remote global teams. 
+
+My professional interests encompass a wide range of areas, including web development, big data, and AI. I constantly explore the latest advancements and developments in these fields. I believe in the transformative power of technology, and I am committed to staying up-to-date with the latest trends, theories, and best practices.
+
+On a personal level, I am deeply committed to self-improvement and personal growth. I firmly believe that continuous learning and growth are essential for both professional and personal success. In my leisure time, I enjoy reading books and listening to podcasts.
 
 ### About me
 - 🌱 I’m addicted to learning and growing every day.
