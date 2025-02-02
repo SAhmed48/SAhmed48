@@ -127,12 +127,6 @@ Stuck with some problem? Need help in solution development, guidance, training o
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SAhmed48&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SAhmed48&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=SAhmed48&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <br>
 <br>
 
