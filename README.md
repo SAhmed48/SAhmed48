@@ -27,8 +27,8 @@ On a personal level, I am deeply committed to self-improvement and personal grow
  -->
 
 ## 👨‍💻 Technical Skills & Expertise
-- Development of Web Applications, Mobile Applications, and Desktop Applications.
-- Development of Machine Learning / Deep Learning models and deployment.
+- Development of Web Applications and Cloud Solutions.
+- Development of SaaS Apps using Gen-AI.
 - Web Scraping, Browser Automation, Python Scripting.
 
 <h2 align="left">📫 Connect</h2>
@@ -108,7 +108,7 @@ Stuck with some problem? Need help in solution development, guidance, training o
 <!-- ## Want to support �
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
  -->
-## Stats
+## 📊 GitHub Stats:
 <div align="left">
   <div>
 <a href="https://github.com/SAhmed48">
@@ -124,6 +124,14 @@ Stuck with some problem? Need help in solution development, guidance, training o
   <img src="https://github-readme-stats.vercel.app/api?username=SAhmed48&show_icons=true&theme=gotham" alt="Salman Ahmed" />
 </div>
 </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SAhmed48&theme=dark&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SAhmed48&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SAhmed48&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <br>
 <br>
