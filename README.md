@@ -101,7 +101,7 @@ On a personal level, I am deeply committed to self-improvement and personal grow
 
 
 ## 🤝 Consulting / Guidance
-Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>salmanahmed4858@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
+Stuck with a problem? Need help with solution development or guidance? I am a Senior Python Developer with expertise in web development, analytics dashboards, and full-stack development. With years of technical and leadership experience, I specialize in building scalable solutions across diverse technologies and domains. Let me know what problem you're facing at <b>salmanahmed4858@gmail.com</b>, and we can schedule a consultation to help you navigate through it.
 
 
 <!-- ## Want to support �
