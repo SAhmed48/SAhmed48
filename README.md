@@ -15,10 +15,9 @@ My professional interests encompass a wide range of areas, including web develop
 On a personal level, I am deeply committed to self-improvement and personal growth. I firmly believe that continuous learning and growth are essential for both professional and personal success. In my leisure time, I enjoy reading books and listening to podcasts. </p>
 
 ### About me
+- 😄 Pronouns: He / His
 - 🌱 I’m addicted to learning and growing every day.
 - 👯 I’m looking to collaborate on any open-source projects.
-- 💬 Ask me about Python, Javascript, Machine learning, AWS, MEAN, MERN stack,  or any tech-related stuff.
-- 😄 Pronouns: He / His
 - 💭 Let's get to know each other.
 - 💼 Any freelance work? do reach, [email](mailto:salmanahmed4858@gmail.com) :)
 - 💬 Ask me about anything; I'm happy to help :)
