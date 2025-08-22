@@ -41,7 +41,7 @@ I’m also passionate about **big data**, **AI**, and **continuous learning** to
 
 ## 📊 Notable Projects & Case Studies
 
-- **[SaaS Product - MedSim](https://medsim.ai/)** – Built a scalable SaaS platform using React & Django, supporting 10K+ users.
+- **[SaaS Product - FastRead](https://fastread.io/)** – Built a scalable SaaS platform using React & Django, supporting 10K+ users.
 - **[Real-Time Next-Gen Vision Systems](https://overview.ai/)** – Developed a Multitenant SaaS platform using React, Redux, Python, Django, Machine Learning, and AWS.
 - **[Smart Aerial Vision](https://www.auav.com.au/insite/)** – Developed a smarter aerial operations product using React, CesiumJS, NodeJS, MongoDB, and AWS.
 
