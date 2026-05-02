@@ -4,7 +4,7 @@
 </h3> 
 </div>
 
-- 👨‍💻 **Senior Full-Stack Developer** with **8 years** of experience
+- 👨‍💻 **Senior Full-Stack Developer** with **9 years** of experience
 - 🚀 Specializes in building and scaling **web applications**, **cloud solutions**, and **AI-driven products**
 - 🔒 Focused on delivering **high-performance**, **secure**, and **scalable** solutions,
 - 🏢 Experienced in working with **startups**, **enterprises**, and everything in between,
@@ -57,7 +57,6 @@ I’m also passionate about **big data**, **AI**, and **continuous learning** to
 Looking for a Senior Full-Stack Developer to bring your product to life? Let’s connect!
 - 👉 [Schedule a free 30-min call](https://calendly.com/salman-ahmed-dev/30min)
 - 📧 **Email**: [salmanahmed4858@gmail.com](mailto:salmanahmed4858@gmail.com)
-- 🌍 **Location**: Lahore, Pakistan (GMT+5)
 - 📅 **Available for remote contracts** – Drop me a line and let’s discuss your project!
 
 
