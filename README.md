@@ -23,7 +23,7 @@ Python · FastAPI · Django · Celery · PostgreSQL · Redis · Amazon Bedrock �
 [Why Most AI Agents Die Before Production, and Why the Fix Isn't More AI](https://www.linkedin.com/in/sahmed48/recent-activity/articles/)
 
 #### Find me
-[sahmed-ai.vercel.app](https://sahmed-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sahmed48/) · [salman.ahmed.dev@gmail.com](mailto:salman.ahmed.dev@gmail.com)
+[sahmed-ai.vercel.app](https://sahmed-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sahmed48/) · [salmanahmed4858@gmail.com](mailto:salmanahmed4858@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAhmed48/SAhmed48/output/github-snake-dark.svg">
