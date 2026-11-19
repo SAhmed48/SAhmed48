@@ -1,96 +1,31 @@
-<div align="center">
-<h3> 
-  Salman Ahmed | Full Stack Developer 💻 | Web, Cloud & AI Solutions 🚀
-</h3> 
-</div>
+### Hi, I'm Salman 👋
 
-- 👨‍💻 **Senior Full-Stack Developer** with **9 years** of experience
-- 🚀 Specializes in building and scaling **web applications**, **cloud solutions**, and **AI-driven products**
-- 🔒 Focused on delivering **high-performance**, **secure**, and **scalable** solutions,
-- 🏢 Experienced in working with **startups**, **enterprises**, and everything in between,
-- 💡 Expertise in developing **full-stack web apps** using modern tech stacks,
+**Senior AI Software Engineer** · LLM agents, MCP & production Python backends · Lahore, Pakistan
 
-## 📈 Key Skills & Technologies
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="LLM agents on Amazon Bedrock · MCP servers with hybrid search · production Python backends" src="assets/header-light.svg">
+</picture>
 
-### **Frontend Development:**
-- **React**, **Next.js**, **Angular**
-- **Redux**, **Styled Components**, **React Router**
+I build production AI systems and the backends that keep them reliable: multi-model LLM platforms, MCP servers that connect AI assistants to live business data, and LLM pipelines with guardrails and evals. 9+ years in software engineering; currently Technical Lead (Managing Consultant, Development) at Systems Limited.
 
-### **Backend Development:**
-- **Python** (Django, FastAPI, Flask)
-- **Node.js** (Express.js)
-- **RESTful APIs**, **GraphQL**
+#### Recent work
+- **Enterprise AI & agent platform** for a global luxury retail client: Amazon Bedrock (Claude, Nova, Llama), FastAPI, function-calling agents, model routing and fallback, guardrails.
+- **MCP server for an AI shopping assistant**: hybrid product search combining embeddings and BM25, merged with Reciprocal Rank Fusion.
+- **Machine-vision inspection platform** for [Overview.ai](https://overview.ai/) (Y Combinator W19): React, Django, PostgreSQL, AWS, deep-learning defect detection.
 
-### **Databases & Cloud:**
-- **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**
-- **AWS**, **Docker**, **GCP**
+Most of my production work lives in private client repositories; the public repos below are personal projects.
 
-### **Other:**
-- **Python Scripting**, **Gen-AI**, **Automation**
+#### Tech I use
+Python · FastAPI · Django · Celery · PostgreSQL · Redis · Amazon Bedrock · LangChain · MCP · RAG · AWS (ECS, Lambda) · Docker · React · Next.js
 
-## 🚀 What I Do
+#### Writing
+[Why Most AI Agents Die Before Production, and Why the Fix Isn't More AI](https://www.linkedin.com/in/sahmed48/recent-activity/articles/)
 
-I build web applications and cloud-based solutions that are **secure**, **scalable**, and **easy to maintain**. My expertise lies in:
+#### Find me
+[sahmed-ai.vercel.app](https://sahmed-ai.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sahmed48/) · [salman.ahmed.dev@gmail.com](mailto:salman.ahmed.dev@gmail.com)
 
-- **Full-Stack Development**: From front-end design to back-end API development.
-- **Cloud Solutions**: Deploying apps and services to AWS, GCP, and Heroku.
-- **SaaS Development**: Building robust, AI-powered products.
-- **Automation & Scraping**: Streamlining tasks with Python scripts and bots.
-
-I’m also passionate about **big data**, **AI**, and **continuous learning** to stay ahead of emerging trends.
-
-## 📊 Notable Projects & Case Studies
-
-- **[SaaS Product - FastRead](https://fastread.io/)** – Built a scalable SaaS platform using React & Django, supporting 10K+ users.
-- **[Real-Time Next-Gen Vision Systems](https://overview.ai/)** – Developed a Multitenant SaaS platform using React, Redux, Python, Django, Machine Learning, and AWS.
-- **[Smart Aerial Vision](https://www.auav.com.au/insite/)** – Developed a smarter aerial operations product using React, CesiumJS, NodeJS, MongoDB, and AWS.
-
-
-## 🌱 Personal Interests
-- **Learning & Growth**: Constantly exploring new tech trends, tools, and methodologies.
-- **Open-Source Projects**: Always open to collaborating on exciting open-source initiatives.
-- **Books & Podcasts**: I love reading and listening to podcasts about tech, entrepreneurship, and personal growth.
-
-
-## 💼 Let's Work Together
-
-Looking for a Senior Full-Stack Developer to bring your product to life? Let’s connect!
-- 👉 [Schedule a free 30-min call](https://calendly.com/salman-ahmed-dev/30min)
-- 📧 **Email**: [salmanahmed4858@gmail.com](mailto:salmanahmed4858@gmail.com)
-- 📅 **Available for remote contracts** – Drop me a line and let’s discuss your project!
-
-
-<h2 align="left">🏆 Github Gold Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAhmed48&column=3&margin-w=15&margin-h=15)](https://github.com/SAhmed48/github-profile-trophy)
-
-
-## 📊 GitHub Stats:
-<div align="left">
-  <div>
-<a href="https://github.com/SAhmed48">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAhmed48&layout=compact&hide_langs_below=1" />
-</a>
-  </div>
-  <br>
-  <div>
-<!--   <a href="https://github.com/SAhmed48">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAhmed48&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&line_height=30" alt="Salman's github   stats"/>
-  </a> -->
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SAhmed48&show_icons=true&theme=gotham" alt="Salman Ahmed" />
-</div>
-</div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAhmed48&theme=dark&hide_border=false)<br/>
-
-<br>
-<br>
-
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAhmed48/SAhmed48/output/github-snake-dark.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/SAhmed48/SAhmed48/output/github-snake.svg">
+</picture>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="56" viewBox="0 0 820 56" role="img" aria-label="LLM agents on Amazon Bedrock; MCP servers with hybrid search; production Python backends">
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600">
+    <text x="0" y="36" fill="#8B949E">&gt;</text>
+    <text x="28" y="36" fill="#58A6FF" opacity="0">LLM agents and multi-model platforms on Amazon Bedrock
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="28" y="36" fill="#58A6FF" opacity="0">MCP servers with hybrid search: BM25 + embeddings + RRF
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="28" y="36" fill="#58A6FF" opacity="0">Production Python backends: FastAPI, Django, AWS
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.28;0.33;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
